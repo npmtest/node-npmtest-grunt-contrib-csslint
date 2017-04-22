@@ -1,4 +1,7 @@
-# test coverage for  [grunt-contrib-csslint (v2.0.0)](https://github.com/gruntjs/grunt-contrib-csslint#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-contrib-csslint.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-contrib-csslint) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-contrib-csslint.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-contrib-csslint)
+# npmtest-grunt-contrib-csslint
+
+#### basic test-coverage for  [grunt-contrib-csslint (v2.0.0)](https://github.com/gruntjs/grunt-contrib-csslint#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-contrib-csslint.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-contrib-csslint) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-contrib-csslint.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-contrib-csslint)
+
 #### Lint CSS files
 
 [![NPM](https://nodei.co/npm/grunt-contrib-csslint.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-contrib-csslint)
@@ -121,7 +124,8 @@
     "scripts": {
         "test": "grunt test --force"
     },
-    "version": "2.0.0"
+    "version": "2.0.0",
+    "bin": {}
 }
 ```
 
